@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The story of a person]]></title>
         <description><![CDATA[The story of a person]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jason-d-cass/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 22:50:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 22:55:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jason-d-cass/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Today i made a video that I loved</p>]]></description>
+            <link>https://thegrid.ai/jason-d-cass/7717a13c-4526-4e54-a42b-169097b9f9a0/index.html</link>
+            <guid isPermaLink="false">7717a13c-4526-4e54-a42b-169097b9f9a0</guid>
+            <pubDate>Sun, 20 Dec 2015 22:55:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfb3fc78-3fbf-4da7-af3c-97c047953fc4.jpg">]]></description>
-            <link>undefined96afbaf9-65e4-454c-8121-b87c68554d89/index.html</link>
+            <link>https://thegrid.ai/jason-d-cass/96afbaf9-65e4-454c-8121-b87c68554d89/index.html</link>
             <guid isPermaLink="false">96afbaf9-65e4-454c-8121-b87c68554d89</guid>
             <pubDate>Sun, 20 Dec 2015 22:50:33 GMT</pubDate>
         </item>
