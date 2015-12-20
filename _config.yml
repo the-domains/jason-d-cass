@@ -1,0 +1,28 @@
+name: Jason D Cass
+favicon: null
+layout_spectrum: 0.7272726877126843
+typography_spectrum: 0.40476262429729104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2842999657150358
+  lightness: 0.8800567747093737
+  saturation: 0.24495247681625187
+  rhythmicContrast: 0.20468320092186332
+purpose: []
